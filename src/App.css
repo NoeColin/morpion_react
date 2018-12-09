@@ -18,7 +18,8 @@ ol, ul {
 }
 
 .square {
-  background: #fff;
+  background: black;
+  color: white;
   border: 1px solid #999;
   float: left;
   font-size: 80px;

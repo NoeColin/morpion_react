@@ -8,6 +8,7 @@ class App extends Component {
     return (
       <div className="App">
         <header className="App-header">
+        <h1> The TicTacToe </h1>
           <Game />
         </header>
       </div>
